@@ -5,19 +5,19 @@ h1 {
     text-transform: uppercase;
     text-align:center;
     width: 100%;
-}
-
-
-h2{color: #000000;
+  }
+  
+  
+  h2{color: #000000;
   font-weight: normal;
   font-size: 30px;
   text-transform: uppercase;
   text-align: center;
-
-}
-
-
-
+  
+  }
+  
+  
+  
   ul {
     list-style-type: none;
     margin: 0;
@@ -42,7 +42,7 @@ h2{color: #000000;
   li a:hover {
     background-color: #006af5;
   }
-
+  
   body {
     border-top-style: solid;
     border-right-style: solid;
@@ -50,25 +50,27 @@ h2{color: #000000;
     border-left-style: solid;
     margin: 150px;
   }
-
+  
   .container-grid{
     text-align: left;
     
   }
-
- @media screen and (max-width: 800px){
   
- .main{
+  @media screen and (max-width: 800px){
+  
+  .main{
    width: 100%;
- }
-}
-
-@media screen and (max-width: 400px){
-.contenedor{
-  width: 100%;
-}
-}
-
+  }
+  }
   
-
-
+  @media screen and (max-width: 400px){
+  .contenedor{
+  width: 100%;
+  }
+  }
+  
+  
+  
+  
+  
+   

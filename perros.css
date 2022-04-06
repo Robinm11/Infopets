@@ -1,4 +1,6 @@
-.barranavegacion {
+
+
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -61,7 +63,5 @@ h3{color: #000000;
     margin: 150px;
   }
 
-  .listaperros {
-    text-align: center;
-  }
+ 
 

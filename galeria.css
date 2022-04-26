@@ -53,17 +53,16 @@ h2{color: #000000;
   
 
 
-  *{
-      box-sizing: border-box;
-  }
-
-  img{
-      width: 100px;
-  }
+  
 
   .galeria-flexbox{
       display: flex;
       padding: 5px;
   }
 
-  
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+  }
